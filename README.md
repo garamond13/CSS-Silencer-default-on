@@ -1,6 +1,6 @@
 # CSS Silencer default on
  
- CSS Silencer default on is a Counter Strike Source SourceMod plugin. M4A1 and UPS have silencer on by default.
+ CSS Silencer default on is a Counter Strike Source SourceMod plugin. USP and M4A1 have silencer on by default.
 
 ## Compilation 
 
